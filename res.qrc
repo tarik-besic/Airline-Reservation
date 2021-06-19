@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>papa.png</file>
+        <file>papa2.png</file>
+        <file>papa3.png</file>
+        <file>papa4.png</file>
+    </qresource>
+</RCC>
