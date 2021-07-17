@@ -5,7 +5,10 @@ An Airline Reservation program made using QT framework and relational database: 
 Technologies used: c++, css, SQLite, 
 
 Learned c++ object oriented code,
+
 UI positioning,
+
 making entire database ,
+
 getting data from local database and displaying it in UI using Queries.
 
