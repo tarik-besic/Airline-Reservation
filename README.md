@@ -4,13 +4,17 @@ VIDEO OF PROJECT:tarik-mkv.
 
 An Airline Reservation program made using QT framework and relational database: SQLite
 
-Technologies used: c++, css, SQLite, 
+Technologies used: **c++**, **css**, **SQLite**, 
 
-Learned c++ object oriented code,
+What I Learned from this project:
 
-UI positioning,
+-more of c++ object oriented programming,
 
-making entire database ,
+-UI positioning,
 
-getting data from local database and displaying it in UI using Queries.
+-desining entire relation database ,
+
+-improved in making sql queries to database,
+
+-displaying data to Qt UI
 
